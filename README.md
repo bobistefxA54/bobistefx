@@ -1,3 +1,3 @@
 # 🧑🏻‍💻 bobistefx
 
-**'Full-Stack Developer'**
+**`Full-Stack Developer`**
