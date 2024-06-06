@@ -9,4 +9,6 @@
 
 🤖 **Python** - AI/ML (Currently learning)
 
+💪 **Teamwork**
+
 ### I am always curious and open to learning new things, diving deeper, and specializing in specific technologies.
