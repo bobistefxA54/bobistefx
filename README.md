@@ -3,8 +3,8 @@
 **`Technologist (Full-Stack Developer/Financial Trader)`**
 
 ## Skills
-**C#**, .NET, ASP.NET
+**C#** - .NET / ASP.NET
 
-**TypeScript**, React
+**TypeScript** - React
 
-Currently Learning: Python, AI/ML
+Currently Learning: Python - AI/ML
