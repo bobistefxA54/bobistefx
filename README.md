@@ -9,4 +9,4 @@
 
 🤖 **Python** - AI/ML (Currently learning)
 
-### I am always curious and open to learning new things, diving deeper, and specializing in specific technologies.
+### I am always curious and open to learning new things or diving deeper and specializing in specific technologies.
