@@ -1,3 +1,3 @@
 # 🧑🏻‍💻 bobistefx
 
-**`Full-Stack Developer`**
+**`Technologist (Full-Stack Developer/Financial Trader)`**
