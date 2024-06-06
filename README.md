@@ -3,7 +3,7 @@
 **`Technologist (Junior Full-Stack Developer/Financial Trader)`**
 
 ## About Me
-I finished the full-stack Alpha C# track at Telerik Academy where I learned the programming fundamentals. We later dived deeper into .NET, ASP.NET, backend, and front-end development. I am always curious and open to learning new things or diving deeper and specializing in specific technologies.
+My name is Borislav, I am 23 years old and currently live in Sofia. I recently finished the full-stack Alpha C# track at Telerik Academy where I learned the programming fundamentals. We later dived deeper into .NET, ASP.NET, backend, and front-end development. I am always curious and open to learning new things or diving deeper and specializing in specific technologies. Since I graduated, I have continuously kept learning new technologies and refining the skills I learned in the Academy. I am eager to get involved in professional software engineering.
 
 ---
 
