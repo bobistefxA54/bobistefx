@@ -7,4 +7,4 @@
 
 **TypeScript**, React
 
-`Currently Learning: Python, AI/ML`
+Currently Learning: Python, AI/ML
