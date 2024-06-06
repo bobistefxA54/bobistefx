@@ -2,16 +2,8 @@
 
 **`Technologist (Junior Full-Stack Developer/Financial Trader)`**
 
-## Skills (constantly growing)
-😎 **C#** - .NET / ASP.NET
-
-♾️ **SQL**
-
-🔥 **TypeScript** - React
-
-🤖 **Python** - AI/ML (Currently learning)
-
-### I am always curious and open to learning new things or diving deeper and specializing in specific technologies.
+## About Me
+I finished the full-stack Alpha C# track at Telerik Academy where I learned the programming fundamentals. We later dived deeper into .NET, ASP.NET, backend, and front-end development. I am always curious and open to learning new things or diving deeper and specializing in specific technologies.
 
 ---
 
