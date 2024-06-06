@@ -7,6 +7,6 @@
 
 🔥 **TypeScript** - React
 
-Currently Learning: 🤖 **Python** - AI/ML
+🤖 **Python** - AI/ML (Currently learning)
 
-I am always curious and open to learning new things, diving deeper, and specializing in specific technologies.
+# I am always curious and open to learning new things, diving deeper, and specializing in specific technologies.
