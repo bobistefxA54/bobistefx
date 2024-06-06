@@ -1,11 +1,13 @@
 # 🧑🏻‍💻 bobistefx
 
-**`Technologist (Full-Stack Developer/Financial Trader)`**
+**`Technologist (Junior Full-Stack Developer/Financial Trader)`**
 
 ## Skills (constantly growing)
 😎 **C#** - .NET / ASP.NET
+Most Recent Project: https://github.com/TelerikAcademySmartCrew/SmartGarage
 
 🔥 **TypeScript** - React
+Most Recent Project: https://github.com/bobistefxA54/task-manager-react
 
 🤖 **Python** - AI/ML (Currently learning)
 
