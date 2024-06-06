@@ -3,9 +3,11 @@
 **`Technologist (Junior Full-Stack Developer/Financial Trader)`**
 
 ## Skills (constantly growing)
-😎 **C#** - .NET / ASP.NET => Most Recent Project: https://github.com/TelerikAcademySmartCrew/SmartGarage
+😎 **C#** - .NET / ASP.NET
 
-🔥 **TypeScript** - React => Most Recent Project: https://github.com/bobistefxA54/task-manager-react
+♾️ **SQL**
+
+🔥 **TypeScript** - React
 
 🤖 **Python** - AI/ML (Currently learning)
 
