@@ -24,6 +24,7 @@ My name is Borislav, I am 23 years old and currently live in Sofia. I recently f
 
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+
 ---
 
 ### Projects (links for easier access)
