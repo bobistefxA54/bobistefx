@@ -28,3 +28,5 @@ Smart Garage - https://github.com/TelerikAcademySmartCrew/SmartGarage
 Automotive Forum System - https://github.com/Web-AutomotiveForumSystem-A54/AutomotiveForumSystem
 
 Risk Management Bot for cTrader - https://github.com/bobistefxA54/RiskManager
+
+Custom Text Editor from scratch with Java - https://github.com/bobistefxA54/TextEditor (currently building)
